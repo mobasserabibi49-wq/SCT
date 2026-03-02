@@ -61,8 +61,8 @@ nav a:hover {
 }
 
 .section {text-align: center;
-height : 90vh;
-
+height : 70vh;
+padding: 30px 55px;
  }
 
 .cards {
@@ -222,7 +222,4 @@ text allign: centre;
 .stat p {
   margin-top: 10px;
   font-size: 16px;
-
 }
-
-
