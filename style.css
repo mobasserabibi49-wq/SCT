@@ -61,8 +61,8 @@ nav a:hover {
 }
 
 .section {text-align: center;
-height : 70vh;
-padding: 30px 55px;
+
+padding: 50px 55px;
  }
 
 .cards {
@@ -87,7 +87,7 @@ footer {
   background: #0a3d62;
   color: white;
   text-align: center;
-  padding: 20px;
+  padding: 80px;
 }
 
 /* Mobile App Style */
